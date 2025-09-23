@@ -9,6 +9,8 @@ public class atv01 {
         int[] conjuntoB = new int[CAPACIDADE];
         int tamA = 0, tamB = 0;
 
+
+        
         Scanner sc = new Scanner(System.in);
         int opcao;
 
